@@ -1,19 +1,18 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=header"/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c9d1d9&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+Meu+Nome+e+Guilherme+Azevedo+tenho+21+anos;Estudo+Sistemas+de+Informação+na+Uninassau+de+Olinda;)](https://git.io/typing-svg) 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuilhermeAzevedo01&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Gui081 github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAzevedo01&layout=compact&hide_border=true&title_color=fff&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuilhermeAzevedo01&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=c9d1d9&text_color=c9d1d9&bg_color=0d1117" alt="Gui081 github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAzevedo01&layout=compact&hide_border=true&title_color=fff&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeAzevedo01&bg_color=000000&color=00bfbf&line=00bfbf&point=fff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeAzevedo01&bg_color=000000&color=c9d1d9&line=c9d1d9&point=fff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div align="center">  
-<a href="https://www.instagram.com/gr_.081/?__pwa=1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
   <a href="mailto:guilhermeruan3012@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"</a>
-    <a href="https://wa.me/5581984885092" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%23333?style=for-the-badge&logo=whatsapp&logoColor=white"</a>
+    <a href="https://wa.me/5581984885092" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%25D366?style=for-the-badge&logo=whatsapp&logoColor=white"</a>
       <a href="https://www.linkedin.com/in/guilhermeazevedo081/" target="_blank"><img src="https://img.shields.io/badge/-LinkdIn-%230077B5?style=for-the-badge&logo=-linkdIn-&logoColor=white"</a>
 
 
@@ -59,5 +58,5 @@
 <br></div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7308EF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=footer"/>
 
